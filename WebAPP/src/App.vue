@@ -3,7 +3,7 @@
 
     <nav>
       <div class="nav-wrapper blue darken-1">
-        <a href="#" class="brand-logo center">PROJETO DEMONSTRATIVO</a>
+        <a href="#" class="brand-logo center">TELA REST API</a>
       </div>
     </nav>
 
